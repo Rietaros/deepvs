@@ -31,7 +31,7 @@ Use to test a set of compound to begin the virtual screening.
       --arg2=someValue   - character, data model
       --arg3=someValue   - character, output
       --help              - print help
- 
+      
       Example:
       ./testdbn.R 'input.csv' 'model.rData' 'output.csv'
 
