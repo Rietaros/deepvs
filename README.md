@@ -1,4 +1,4 @@
-# deepvs
+# DeepVS (Deep Learning for Virtual Screening)
 Deep Learning Approaches with Molecular Fingerprint features for Ligand Based Virtual Scrrening
 
 Develop using R Language Programming
