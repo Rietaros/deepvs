@@ -12,7 +12,8 @@ Prerequisite:
   download link : https://cran.r-project.org/web/packages/deepnet/index.html
 
 
-
+ 
+ 
 
 1. fingerprint_feature.R
 Use to extract the feature from SMILES file. Feature extraction are done based on Klekota-Roth or PubChem fingerprints.
@@ -30,7 +31,9 @@ Use to extract the feature from SMILES file. Feature extraction are done based o
       Example:
       
       ./fingerprint_feature.R 'input.smi/input.txt' 'fingerprint.csv' 1
-
+ 
+  
+  
 
 2. testdbn.R
 Use to test a set of compound to begin the virtual screening.
