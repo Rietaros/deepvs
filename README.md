@@ -3,11 +3,15 @@ Deep Learning Approaches with Molecular Fingerprint features for Ligand Based Vi
 
 Develop using R Language Programming
 
+
+
 Prerequisite:
 - RCDK Package for R
   download link : https://cran.rstudio.com/web/packages/rcdk/
 - Deepnet Package for R
   download link : https://cran.r-project.org/web/packages/deepnet/index.html
+
+
 
 
 1. fingerprint_feature.R
