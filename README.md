@@ -16,6 +16,7 @@ Prerequisite:
  
 
 1. fingerprint_feature.R
+
 Use to extract the feature from SMILES file. Feature extraction are done based on Klekota-Roth or PubChem fingerprints.
 
       Arguments:
@@ -36,6 +37,7 @@ Use to extract the feature from SMILES file. Feature extraction are done based o
   
 
 2. testdbn.R
+
 Use to test a set of compound to begin the virtual screening.
  
       Arguments:
