@@ -45,5 +45,6 @@ Use to test a set of compound to begin the virtual screening.
       Example:
       ./testdbn.R 'input.csv' 'model.rData' 'output.csv'
 
-(*A set of compounds must be extracted first)
-(**Model is output from training process)
+(**A set of input compounds must be extracted first)
+
+(***Model is output from training process)
