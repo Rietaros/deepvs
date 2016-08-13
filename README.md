@@ -38,7 +38,7 @@ Use to extract the feature from SMILES file. Feature extraction are done based o
 
 2. testdbn.R
 
-Use to test a set of compound to begin the virtual screening.
+Use to test a set of compounds to begin the virtual screening.
  
       Arguments:
 
